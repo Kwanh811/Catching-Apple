@@ -33,5 +33,5 @@ Chào mừng bạn đến với dự án trò chơi Catching Apple
   ### Cài đặt
 . Clone dự án về máy:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Kwanh811/Catching-Apple
 
